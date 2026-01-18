@@ -15,6 +15,10 @@ database data without creating custom UI.
 - 🧪 Safe for debug builds
 - 🧩 Simple plug-and-play widget
 
+## Screenshot
+
+![1768773390522](images/README/1768773390522.png)
+
 ## 📦 Installation
 
 Add this to your `pubspec.yaml`:
@@ -103,8 +107,6 @@ if (kDebugMode) {
 runApp(const HiveInspector());
 }
 ```
-
-
 
 ## ⚠️ Important Notes
 
