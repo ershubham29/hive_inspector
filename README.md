@@ -65,6 +65,12 @@ demoBox.put('count', 5);
 
 runApp(const HiveInspector());</span></code></div></div></pre>
 
+## Screenshot
+
+![1768773213491](images/README/1768773213491.png)
+
+![1768773153182](images/README/1768773153182.png)
+
 ## 🧪 Full Example App
 
 This is exactly how the **example app** inside the package works.
