@@ -25,7 +25,7 @@ Add this to your `pubspec.yaml`:
 
 ```
 dependencies:
-hive_inspector: ^1.0.0
+hive_inspector: ^0.0.1
 ```
 
 Then Run

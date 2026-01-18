@@ -1,6 +1,6 @@
 name: hive_inspector
 description: "A Flutter DevTool to inspect, search, edit and export Hive boxes at runtime."
-version: 0.0.1
+version: 0.0.2
 homepage: "https://github.com/ershubham29/hive_inspector"
 
 

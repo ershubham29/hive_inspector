@@ -1,3 +1,8 @@
+## 0.0.2
+
+* add edit options
+* add export options
+
 ## 0.0.1
 
-* TODO: Describe initial release.
+* Basics publish
